@@ -1,6 +1,7 @@
 def sumar(a,b):
     cantidad = 7
     print(a+b)
+    print("Hola mundo")
     print("Esta suma es muy facil")
 sumar(5,6)
 
