@@ -8,8 +8,3 @@ def multiplicar(a,b):
     return a * b
 multiplicar(3,5)
     
-def multiplicar(a,b):
-    n = int(input("Ingrese numero: "))
-    print(a*b)
-    print()
-multiplicar(3,4)
