@@ -8,3 +8,5 @@ def multiplicar(a,b):
     return a * b
 multiplicar(3,5)
     
+def dividir(a,b):
+    print(a/b)
