@@ -10,3 +10,10 @@ multiplicar(3,5)
     
 def dividir(a,b):
     print(a/b)
+    
+def main():
+    numero1 = int(input("Ingrese numero 1:"))
+    numero2 = int(input("Ingrese numero 2:"))
+    obj = sumar(numero1 ,numero2)
+    print(obj)
+main()
