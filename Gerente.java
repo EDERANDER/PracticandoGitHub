@@ -5,6 +5,7 @@ public class Gerente {
     public Gerente(String nombre, String telefono) {
         this.nombre = nombre;
         this.telefono = telefono;
+        System.out.println("Se agrego correctamente al sistema");
     }
 
     public void informacion() {
