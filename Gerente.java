@@ -6,6 +6,7 @@ public class Gerente {
         this.nombre = nombre;
         this.telefono = telefono;
         System.out.println("Se agrego correctamente al sistema");
+        System.out.println("Objeto creado correctamente");
     }
 
     public void informacion() {
