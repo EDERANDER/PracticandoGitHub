@@ -15,5 +15,6 @@ public class Gerente {
 
     public void mensaje() {
         System.out.println("Yo soy el gerente y me respetan");
+        System.out.println("Gerente enfurecido");
     }
 }
