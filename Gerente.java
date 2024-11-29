@@ -9,7 +9,7 @@ public class Gerente {
     }
 
     public void informacion() {
-        System.out.println("Mensaje de informacion");
+        System.out.println("Mensaje de informacion del gerente");
         System.out.println("Nombre: " + nombre);
         System.out.println("Telefono: " + telefono);
     }
