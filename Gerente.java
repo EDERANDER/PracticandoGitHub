@@ -12,4 +12,8 @@ public class Gerente {
         System.out.println("Nombre: " + nombre);
         System.out.println("Telefono: " + telefono);
     }
+
+    public void mensaje() {
+        System.out.println("Yo soy el gerente y me respetan");
+    }
 }
