@@ -3,6 +3,7 @@ public class Gerente {
     private String telefono;
 
     public Gerente(String nombre, String telefono) {
+        System.out.println("Constructor creado");
         this.nombre = nombre;
         this.telefono = telefono;
     }
