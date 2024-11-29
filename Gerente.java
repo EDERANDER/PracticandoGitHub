@@ -18,4 +18,9 @@ public class Gerente {
         System.out.println("Yo soy el gerente y me respetan");
         System.out.println("Gerente enfurecido");
     }
+
+    public double sueldo() {
+        System.out.println("Sueldo del Gerente perro: ");
+        return 2000;
+    }
 }
